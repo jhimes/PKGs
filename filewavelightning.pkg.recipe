@@ -5,14 +5,14 @@
     <key>Description</key>
     <string>Downloads FileWave Lightning disk image and builds a package.</string>
     <key>Identifier</key>
-    <string>com.github.autopkg.pkg.filewavelightning</string>
+    <string>filewavelightning.pkg.recipe</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
         <string>FileWaveLightning</string>
     </dict>
     <key>ParentRecipe</key>
-    <string>com.github.autopkg.download.filewavelightning</string>
+    <string>filewavelightning.download.recipe</string>
     <key>Process</key>
     <array>
         <dict>

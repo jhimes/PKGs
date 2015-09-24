@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Downloads FileWave Lightning 1.6</string>
     <key>Identifier</key>
-    <string>com.github.autopkg.download.filewaveLightning</string>
+    <string>filewavelightning.download.recipe</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
